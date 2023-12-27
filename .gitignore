@@ -1,0 +1,5 @@
+.idea/
+x64/
+*.Dotsettings.user
+**/x64
+.vscode/
